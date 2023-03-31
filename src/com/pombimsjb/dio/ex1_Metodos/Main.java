@@ -1,4 +1,4 @@
-package com.pombimsjb.dio.ex1;
+package com.pombimsjb.dio.ex1_Metodos;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.pombimsjb.dio.ex1;
+package com.pombimsjb.dio.ex1_Metodos;
 
 public class Mensagem {
     public static void obterMensagem(int hora){

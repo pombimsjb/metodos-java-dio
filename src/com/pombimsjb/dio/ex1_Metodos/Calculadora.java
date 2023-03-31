@@ -1,4 +1,4 @@
-package com.pombimsjb.dio.ex1;
+package com.pombimsjb.dio.ex1_Metodos;
 
 /*
     Calcule as 4 operações básicas: soma, subtração,

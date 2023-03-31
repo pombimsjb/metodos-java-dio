@@ -1,4 +1,4 @@
-package com.pombimsjb.dio.ex1;
+package com.pombimsjb.dio.ex1_Metodos;
 
 public class Emprestimo {
     public static int getDuasParcelas() {
